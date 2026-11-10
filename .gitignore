@@ -1,0 +1,8 @@
+# Environment variables and secrets
+backend/.env
+
+# Node.js dependencies
+backend/node_modules/
+
+# Logs
+*.log
